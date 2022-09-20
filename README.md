@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working at school.
 - 🌱 I’m currently learning Computer Science.
+- :hammer_and_pick: I'm coding with C / C++ / Java /.NET / Python / Rust
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
