@@ -17,4 +17,14 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=duan-dky)
 <!--START_SECTION:waka-->
+
+```text
+Vue.js       1 hr 58 mins    █████████████████████▒░░░   84.77 %
+YAML         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+HTML         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Assembly     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+```
+
 <!--END_SECTION:waka-->
