@@ -14,8 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://github-readme-stats.vercel.app/api?username=duan-dky)
+[![duan's GitHub stats](https://github-readme-stats.vercel.app/api?username=duan-dky)](https://github.com/anuraghazra/github-readme-stats)
 
 #### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
