@@ -37,7 +37,7 @@ All unsigned commits are not responsible for this
 [![Legion R7000](https://img.shields.io/badge/Legion%20R7000-00BBFF?style=flat-square&logo=lenovo&logoColor=FFFFFF&labelColor=00BBFF)](https://activity.lenovo.com.cn/xiaofei/zjz/hdy.html)
 [![HP Chromebook 13 G1](https://img.shields.io/static/v1?style=flat-square&message=HP%20Chromebook%2013%20G1&color=0096D6&logo=HP&logoColor=FFFFFF&label=)](https://www.nintendo.com/switch/)
 
-#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
+#### :bar_chart: Monthly coding time
 <!--START_SECTION:waka-->
 
 ```text
