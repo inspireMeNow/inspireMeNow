@@ -34,8 +34,8 @@ All unsigned commits are not responsible for this
 ### 📱 Devices
 [![Pixel 4a 5G](https://img.shields.io/badge/Pixel%204a%205G-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
 [![Pixel 3 XL](https://img.shields.io/badge/Pixel%203%20XL-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
-[![Legion R7000](https://img.shields.io/badge/Legion%20R7000-00BBFF?style=flat-square&logo=lenovo&logoColor=FFFFFF&labelColor=00BBFF)](https://activity.lenovo.com.cn/xiaofei/zjz/hdy.html)
-[![HP Chromebook 13 G1](https://img.shields.io/static/v1?style=flat-square&message=HP%20Chromebook%2013%20G1&color=0096D6&logo=HP&logoColor=FFFFFF&label=)](https://www.nintendo.com/switch/)
+[![Legion R7000](https://img.shields.io/badge/Legion%20R7000-00BBFF?style=flat-square&logo=lenovo&logoColor=FFFFFF&labelColor=00BBFF)](https://www.lenovo.com.cn)
+[![HP Chromebook 13 G1](https://img.shields.io/static/v1?style=flat-square&message=HP%20Chromebook%2013%20G1&color=0096D6&logo=HP&logoColor=FFFFFF&label=)](https://store.google.com/)
 
 #### :bar_chart: Monthly coding time
 <!--START_SECTION:waka-->
