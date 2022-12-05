@@ -39,11 +39,4 @@ All unsigned commits are not responsible for this
 
 #### :bar_chart: Monthly coding time
 <!--START_SECTION:waka-->
-
-```text
-Python         22 hrs 9 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜   82.01 %
-CSV            1 hr 6 mins     🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.10 %
-Other          46 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.88 %
-```
-
 <!--END_SECTION:waka-->
