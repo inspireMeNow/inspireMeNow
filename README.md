@@ -37,13 +37,6 @@ All unsigned commits are not responsible for this
 [![Legion R7000](https://img.shields.io/badge/Legion%20R7000-00BBFF?style=flat-square&logo=lenovo&logoColor=FFFFFF&labelColor=00BBFF)](https://www.lenovo.com.cn)
 [![HP Chromebook 13 G1](https://img.shields.io/static/v1?style=flat-square&message=HP%20Chromebook%2013%20G1&color=0096D6&logo=HP&logoColor=FFFFFF&label=)](https://store.google.com/)
 
-#### :bar_chart: Monthly coding time
+#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
-
-```text
-Python       15 hrs 22 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜   72.24 %
-C#           1 hr 56 mins    🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.15 %
-Other        1 hr 13 mins    🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.72 %
-```
-
 <!--END_SECTION:waka-->
