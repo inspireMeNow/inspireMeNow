@@ -18,10 +18,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=duan-dky&show_icons=true&theme=dark)
 ### 🔒 FingerPrint
 
-     9FBF F379 2C49 30F0 DC3E  DBFF 6EDA 7ACC 914C 0F40
+     8611 788A 1C22 530D FAD5  1907 0CF1 7F53 379B 8791
 
 
-[Pubilc Key](https://keys.openpgp.org/vks/v1/by-fingerprint/9FBFF3792C4930F0DC3EDBFF6EDA7ACC914C0F40)
+[Pubilc Key](https://keys.openpgp.org/vks/v1/by-fingerprint/8611788A1C22530DFAD519070CF17F53379B8791)
 
 All unsigned commits are not responsible for this
 
