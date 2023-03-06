@@ -34,7 +34,7 @@ All unsigned commits are not responsible for this
 ### 📱 Devices
 [![Pixel 4a 5G](https://img.shields.io/badge/Pixel%204a%205G-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
 [![Pixel 3 XL](https://img.shields.io/badge/Pixel%203%20XL-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
-[![HP Pro c640 Chromebook](https://img.shields.io/static/v1?style=flat-square&message=HP%20Chromebook%2013%20G1&color=0096D6&logo=HP&logoColor=FFFFFF&label=)](https://store.google.com/)
+[![HP Pro c640 Chromebook](https://img.shields.io/static/v1?style=flat-square&message=HP%20Pro%20c640%20Chromebook&color=0096D6&logo=HP&logoColor=FFFFFF&label=)](https://store.google.com/)
 
 #### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
