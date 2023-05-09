@@ -18,21 +18,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=duan-dky&show_icons=true&theme=dark)
 
 ### 💻 Environment
-
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)](https://getfedora.org/)
-
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
-
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
-
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/)
 
 ### 📱 Devices
-
 [![Pixel 4a 5G](https://img.shields.io/badge/Pixel%204a%205G-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
-
 [![Pixel 3 XL](https://img.shields.io/badge/Pixel%203%20XL-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
-
 [![HP Pro c640 Chromebook](https://img.shields.io/static/v1?style=flat-square&message=HP%20Pro%20c640%20Chromebook&color=0096D6&logo=HP&logoColor=FFFFFF&label=)](https://store.google.com/)
 
 ### 🔒 FingerPrint
