@@ -41,7 +41,8 @@ All unsigned commits are not responsible for this
 
 ### 💰 Sponsored me
 
-- [stripe](https://buy.stripe.com/6oE6pH8kP00Y9vGdQS)
+- [Stripe](https://buy.stripe.com/6oE6pH8kP00Y9vGdQS)
+- [Patreon](https://www.patreon.com/user?u=90691458)
 
 #### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
