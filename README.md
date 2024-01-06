@@ -26,7 +26,7 @@
 ### 📱 Devices
 [![Pixel 4a 5G](https://img.shields.io/badge/Pixel%204a%205G-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
 [![Pixel 3 XL](https://img.shields.io/badge/Pixel%203%20XL-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
-[![HP Pro c640 Chromebook](https://img.shields.io/static/v1?style=flat-square&message=HP%20Pro%20c640%20Chromebook&color=0096D6&logo=HP&logoColor=FFFFFF&label=)](https://store.google.com/)
+[![Intel NUC M15](https://img.shields.io/static/v1?style=flat-square&message=Intel%20Nuc%20M15&color=0096D6&logo=HP&logoColor=FFFFFF&label=)](https://store.google.com/)
 
 ### 🔒 FingerPrint
 
