@@ -25,7 +25,7 @@
 
 ### 📱 Devices
 [![Pixel 4a 5G](https://img.shields.io/badge/Pixel%204a%205G-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
-[![Samsung](https://img.shields.io/badge/Samsung%20Tab%20S6-00C000?style=flat-square&logo=samsung&logoColor=FFFFFF&labelColor=008BFF)](https://www.samsung.com/)
+[![Samsung](https://img.shields.io/badge/Samsung%20Tab%20S6-00C000?style=flat-square&logo=samsung)](https://www.samsung.com/)
 [![Intel NUC M15](https://img.shields.io/static/v1?style=flat-square&message=Intel%20Nuc%20M15&color=0096D6&logo=Intel&logoColor=FFFFFF&label=)](https://www.intel.com/)
 
 ### 🔒 FingerPrint
