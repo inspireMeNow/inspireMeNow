@@ -43,11 +43,3 @@ All unsigned commits are not responsible for this
 
 - [Patreon](https://www.patreon.com/user?u=90691458)
 
-#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
