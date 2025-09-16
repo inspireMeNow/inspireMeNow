@@ -36,10 +36,3 @@
 [Pubilc Key](https://keys.openpgp.org/vks/v1/by-fingerprint/AD3D2BAD63B381F4071DDECA133372E0763E04E0)
 
 All unsigned commits are not responsible for this
-
-
-
-### 💰 Sponsored me
-
-- [Patreon](https://www.patreon.com/user?u=90691458)
-
