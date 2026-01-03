@@ -15,7 +15,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=inspireMeNow&show_icons=true&theme=light)
 
 ### 💻 Environment
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)](https://getfedora.org/)
